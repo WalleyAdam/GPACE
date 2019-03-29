@@ -1,6 +1,7 @@
 ## Setup - IMPORTANT
-npm install --save react-scripts
-npm audit fix
+Run these two commands to install necessary node modules to run the React App. <br>
+### `npm install --save react-scripts`
+### `npm audit fix`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
