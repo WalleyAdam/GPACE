@@ -1,5 +1,7 @@
 ## Setup - IMPORTANT
-Run these two commands to install necessary node modules to run the React App. <br>
+Run these commands to install necessary node modules to run the React App. <br>
+### `npm install --save react`
+### `npm install --save react-dom` 
 ### `npm install --save react-scripts`
 ### `npm audit fix`
 
